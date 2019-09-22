@@ -10,4 +10,9 @@ I want to become a professional front-end developer.
 Therefore, I constantly study new technologists,
 take courses in the profession and read specialized literature.
 
+## Skills
+- `HTML, CSS, SASS/SCSS, BEM-naming, adaptive layout` 
+- `JavaScript`
+- `Git, Gulp`
+
 
