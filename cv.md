@@ -15,4 +15,7 @@ take courses in the profession and read specialized literature.
 - `JavaScript`
 - `Git, Gulp`
 
+## Code examples
+[Тестовое задание для BeaversBrothers](https://github.com/mi5ha6in/test-task)
+
 
